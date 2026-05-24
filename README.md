@@ -99,4 +99,4 @@ AI根据命盘数据，能给出更精准的个人分析。
 
 ## 关注获取更多
 
-关注 @yongzhuan_bot 获取更多深度个人成长与web3内容。
+关注 [@yongzhuan_bot](https://t.me/yongzhuan_bot) 获取更多深度个人成长与web3内容。
